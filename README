@@ -1,0 +1,24 @@
+mongoose
+
+- populate trong mongoose
+- \_doc
+- select
+- $regex
+- .limit
+- $push
+- find
+- findOneAndUpdate
+- $pull
+- sort
+
+css
+
+- filter
+
+javascript
+
+- URL.createObjectURL()
+- navigator.mediaDevices
+- navigator.mediaDevices.getDisplayMedia
+- current.getContext
+- toISOString
